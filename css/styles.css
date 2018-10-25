@@ -1,0 +1,37 @@
+aside {
+  width: 11%;
+  float: left;
+}
+
+.main-content {
+  width: 89%;
+  float: left;
+}
+
+.bob {
+  padding 0;
+  margin-left: -15px;
+}
+
+.container-fluid {
+  padding-left: 0;
+}
+
+.jumbotron {
+  border: 2px solid gray;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-right: 30px
+}
+
+.jumbotron h1 {
+  font-size: 24px;
+}
+
+.jumbotron p {
+  font-size: 12px;
+}
+
+.mpage {
+  background-color: white;
+}
